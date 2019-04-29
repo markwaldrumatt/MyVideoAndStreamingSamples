@@ -1,4 +1,4 @@
-# My-Simple-Streaming-Server
+# MyVideoAndStreamingSamples
 A set of Video playback and Video Streaming server examples written in javascript, nodejs, and html5.  All built within Visual Studio Code. 
 
 An initial check-in of source code (*.js files built using nodejs, *.html files and mp4 video files if necessary) built using Visual Studio Code.
